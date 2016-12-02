@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C12CBC471DF04F68006A9B15"
-               BuildableName = "ff.app"
-               BlueprintName = "ff"
-               ReferencedContainer = "container:ff.xcodeproj">
+               BuildableName = "Dialogue Scene.app"
+               BlueprintName = "Dialogue Scene"
+               ReferencedContainer = "container:Dialogue Scene.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C12CBC471DF04F68006A9B15"
-            BuildableName = "ff.app"
-            BlueprintName = "ff"
-            ReferencedContainer = "container:ff.xcodeproj">
+            BuildableName = "Dialogue Scene.app"
+            BlueprintName = "Dialogue Scene"
+            ReferencedContainer = "container:Dialogue Scene.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C12CBC471DF04F68006A9B15"
-            BuildableName = "ff.app"
-            BlueprintName = "ff"
-            ReferencedContainer = "container:ff.xcodeproj">
+            BuildableName = "Dialogue Scene.app"
+            BlueprintName = "Dialogue Scene"
+            ReferencedContainer = "container:Dialogue Scene.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C12CBC471DF04F68006A9B15"
-            BuildableName = "ff.app"
-            BlueprintName = "ff"
-            ReferencedContainer = "container:ff.xcodeproj">
+            BuildableName = "Dialogue Scene.app"
+            BlueprintName = "Dialogue Scene"
+            ReferencedContainer = "container:Dialogue Scene.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
